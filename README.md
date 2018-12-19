@@ -13,7 +13,7 @@ pypi: [https://pypi.python.org/pypi?:action=display&name=pyblur&version=0.2.3](h
 
 ## Installation
 From Pip: `pip install pyblur`<br>
-Or alternatively `git clone` this repo and run locally
+Or alternatively `git clone` this repo and run `python3 setup.py install` to install.
 
 ## Usage
     from pyblur import *
